@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: 'Outfit', sans-serif;
+}
+html, body {
+  height: auto;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
